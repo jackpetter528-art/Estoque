@@ -1,0 +1,68 @@
+[
+    {
+        "nome": "mouse",
+        "preco": 40.0,
+        "quantidade": 21,
+        "categoria": "peri"
+    },
+    {
+        "nome": "teclado ",
+        "preco": 30.0,
+        "quantidade": 20,
+        "categoria": "peri"
+    },
+    {
+        "nome": "2",
+        "preco": 20.0,
+        "quantidade": 10,
+        "categoria": "abc"
+    },
+    {
+        "nome": "notebook",
+        "preco": 3000.0,
+        "quantidade": 51,
+        "categoria": "eletronicos"
+    },
+    {
+        "nome": "headset",
+        "preco": 200.0,
+        "quantidade": 30,
+        "categoria": "peri"
+    },
+    {
+        "nome": "celular",
+        "preco": 2500.0,
+        "quantidade": 38,
+        "categoria": "eletronicos"
+    },
+    {
+        "nome": "mousepad",
+        "preco": 40.0,
+        "quantidade": 20,
+        "categoria": "utilidades"
+    },
+    {
+        "nome": "tablet",
+        "preco": 3000.0,
+        "quantidade": 30,
+        "categoria": "eletronico"
+    },
+    {
+        "nome": "3",
+        "preco": 235.0,
+        "quantidade": 10,
+        "categoria": "qualquer uma"
+    },
+    {
+        "nome": "4",
+        "preco": 3.0,
+        "quantidade": 4,
+        "categoria": ""
+    },
+    {
+        "nome": "5",
+        "preco": 30.0,
+        "quantidade": 30,
+        "categoria": "eletronicos"
+    }
+]
